@@ -22,7 +22,7 @@ Prima di eseguire questa applicazione, assicurati di avere:
 
 Per configurare il progetto:
 
-1. Clona il repository: git clone [URL del repository]
+1. Clona il repository: git clone https://github.com/marcocrupi/testDatabase_CSharp.git
 2. Naviga nella cartella del progetto clonato.
 3. Assicurati che la stringa di connessione nel file `Program.cs` corrisponda alla configurazione del tuo ambiente di database.
 
